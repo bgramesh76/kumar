@@ -1,3 +1,3 @@
-#! /usr/bin/python3
+#! /usr/bin/python
 
 print("Welcome to my world")
